@@ -1,4 +1,4 @@
 # TypeScript Intro Assigment 
 
-Introduction to typescript
+Introduction to typescript.
 
